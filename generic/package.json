@@ -1,0 +1,17 @@
+{
+  "id": "generic",
+  "name": "Generic",
+  "version": "1.0.0",
+  "description": "Generic",
+  "main": "index.js",
+  "author": "Alberto Bellotti <aab@bellotti.us.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://{teamId}",
+    "hasNotificationSound": true,
+    "hasDirectMessages": true,
+    "hasIndirectMessages": true,
+    "hasTeamId": true,
+    "urlInputSuffix": ""
+  }
+}
